@@ -15,3 +15,15 @@ apt install python -y
 
 
 git clone https://github.com/AYAN-HACKER/sms.pk.git
+
+
+
+cd sms.pk
+
+
+
+python main.py
+
+
+
+          [termux]
