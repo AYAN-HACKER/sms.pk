@@ -1,7 +1,7 @@
         [ termux ]
 
 
-apt update -y 
+[    apt update -y        ]
 
 
 apt upgrade -y 
